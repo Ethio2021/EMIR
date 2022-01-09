@@ -1,4 +1,4 @@
-# EMIR
+# Ethiopian music scales (Kiñits), called (EMIR) v1
 ### About EMIR
 EMIR v1.0 was created on July 21, 2021". This project aims to continuously grow the Ethiopian music dataset to encourage other researchers to explore Ethiopian music.
 ### Creation of the Database
