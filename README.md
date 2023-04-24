@@ -15,3 +15,6 @@ Four well-known Ethiopian Kiñits (pentatonic scales), Tizita, Bati, Ambassel, a
 ### Organization the Database
 The tracks are all 16 kHz Mono 16-bit audio files in .wav format. Each file was labeled in the form `Bati1.Wav'. The first part of the name indicates the Kiñit (Tizita, Bati, Ambassel, or Anchihoye); the second part indicates the recording number within that Kiñit (1, 2, 3...). 
 Subsequently, recordings were stored in four different folders in the dataset. 
+
+### Paper
+If you use this dataset, please cite the following article: Retta EA, Sutcliffe R, Almekhlafi E, Enku YK, Alemu E, Gemechu TD, et al. (2023) Kiñit classification in Ethiopian chants, Azmaris and modern music: A new dataset and CNN benchmark. PLoS ONE 18(4): e0284560. https://doi.org/10.1371/journal.pone.0284560
